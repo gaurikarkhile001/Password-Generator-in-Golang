@@ -18,7 +18,7 @@ A simple command-line tool written in Go to generate secure passwords based on u
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/gaurikarkhile001/password-generator.git
+git clone [https://github.com/gaurikarkhile001/Password-Generator-in-Golang.git](https://github.com/gaurikarkhile001/Password-Generator-in-Golang.git)
 cd password-generator
 ```
 
